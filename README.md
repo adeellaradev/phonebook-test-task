@@ -1,6 +1,5 @@
-
-Run the following commands after cloning the project
-- 
+# Run the following commands after cloning the project
+ 
 - run composer install
 - run npm install
 - run php artisan storage:link
@@ -10,14 +9,15 @@ Run the following commands after cloning the project
 - run php artisan key:generate
 
 
-After that run the servers as follows
+# After that run the servers as follows
 - npm run dev
 - php artisan serve
 
-## phone number format
+# Phone number format
 - With country code: +1 (123) 456-7890
 - Without country code: (123) 456-7890
-Other valid formats:
+
+# Other valid formats
 - 123-456-7890
 - 123.456.7890
 - 123 456 7890
